@@ -1,5 +1,3 @@
->  Những tính cách khó khăn trong một dự án phần mềm, và làm sao để đối phó.
-
 # Kẻ xấc xược
 
 >  Là một QA mà các báo cáo bug mang tính gây hấn thụ động, khiến cho các dev cảm thấy xấc xược, thô lỗ.
