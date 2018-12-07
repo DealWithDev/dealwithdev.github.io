@@ -2,7 +2,7 @@
 
 **Content**
 
-1. QA
+1. QA - Những người đảm bảo chất lượng:
   * [Kẻ gieo sợ hãi](/QA_ke_gieo_so_hai)
   * [Nhà khoa học](/QA_nha_khoa_hoc)
   * [Kẻ gây lạc lối](/QA_ke_gay_lac_loi)
