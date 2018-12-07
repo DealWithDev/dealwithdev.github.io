@@ -1,7 +1,7 @@
 # Nhà khoa học
 > Một QA dùng phần lớn thời gian của mình để viết tài liệu về lỗi, chứ không phải đi tìm lỗi mới.
 
-* _Có thể biến hình thành: QA "Kẻ bị chà đạp"_
+* _Có thể biến hình thành: QA "Người bị chà đạp"_
 * _Nguy hiểm khi làm việc với: PM "Tác giả có bản quyền"_
 * _Khả năng sửa chữa: **Cao**_
 * _Nguy cơ với dự án: **Thấp**_
