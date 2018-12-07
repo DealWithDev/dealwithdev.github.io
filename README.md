@@ -4,3 +4,5 @@
 
 1. QA
   * [Kẻ xấc xược](/QA_The_Flippant)
+  * [Người bị chà đạp](/QA_ke_bi_cha_dap)
+  * [Kẻ bấm loạn xạ](/QA_The_random_clicker)

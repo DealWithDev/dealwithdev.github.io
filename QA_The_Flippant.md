@@ -43,3 +43,4 @@ Nếu họ là một nhân viên "trám chỗ", vốn được thêm vào nhóm 
 
 Thông thường, sẽ dễ hơn nhiều nếu ta loại bỏ một tester dạng xấc xược, thay vì cố gắng sửa chữa họ. Chắc chắn là họ đã thể hiện là họ không muốn làm QA rồi, và vì thế đó có lẽ là cách thỏa mãn tốt nhất mong muốn của mọi người.
 
+TienTN (2018/12/04)
