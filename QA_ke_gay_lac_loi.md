@@ -6,7 +6,7 @@
 * _Khả năng sửa chữa: **Cao**_
 * _Nguy hiểm với dự án: **Cao**_
 
-##Vấn đề:
+## Vấn đề:
 Báo cáo một lỗi cần các yếu tố sau:
 
 * 1. Khả năng nhận diện đây thật sự là 1 lỗi
@@ -23,7 +23,7 @@ Trong bất kỳ bước nào nói trên, đều có khả năng những nhầm 
 
 Lâu lâu việc gây lạc lối cho một dev sẽ xảy ra, vì con người có sai lầm, và điều này luôn được dự phòng. Tuy nhiên, kẻ  gây lạc lối làm việc này như một thói quen, tạo ra một sự thất vọng tăng dần trong các dev. Nếu ta vẫn cho phép nó tiếp tục, người QA tester này sẽ mất uy tín với dev, và các lỗi thật sự họ tìm ra sẽ không được sửa, bởi vì các dev từ chối các báo cáo bug của người này.
 
-##Giải pháp:
+## Giải pháp:
 Kẻ gây lạc lối thường khá trong việc tìm lỗi, họ chỉ kém trong việc tài liệu hóa nó. Vì vậy, việc huấn luyện họ về cách báo cáo một lỗi theo cách chính thống là đáng giá cho sự cố gắng của chúng ta.
 
 Một trong những biện pháp giúp Kẻ gây lạc lối cải thiện là để họ quan sát một dev sử dụng báo cáo lỗi của họ để điều tra. Việc này chỉ đơn giản là đặt họ ngồi cạnh một dev, người mà nhận báo cáo lỗi từ họ, và để họ quan sát một cách âm thầm(mà không can thiệp) vào cách dev xử lý. Thông thường, việc này sẽ tạo ra sự trao đổi hữu ích về việc làm sao một báo cáo lỗi trở nên tốt hơn cho cả hai phía.
