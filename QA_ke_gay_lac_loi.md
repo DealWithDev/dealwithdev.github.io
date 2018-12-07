@@ -2,7 +2,7 @@
 > Một QA thường xuyên báo lỗi sai, dẫn dắt các dev vào con đường sai khi họ cố gắng tái tạo và sửa lỗi.
 
 * _Có thể biến đổi thành: QA "Kẻ gieo sợ hãi"_
-* _Nguy hiểm khi làm việc với: PM "Nhà thống kê"
+* _Nguy hiểm khi làm việc với: PM "Nhà thống kê"_
 * _Khả năng sửa chữa: **Cao**_
 * _Nguy hiểm với dự án: **Cao**_
 
