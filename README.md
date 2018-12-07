@@ -3,6 +3,7 @@
 **Content**
 
 1. QA
+  * [Nhà khoa học](/QA_nha_khoa_hoc)
   * [Kẻ gây lạc lối](/QA_ke_gay_lac_loi)
   * [Kẻ bấm loạn xạ](/QA_ke_bam_loan_xa)
   * [Người bị chà đạp](/QA_nguoi_bi_cha_dap)
