@@ -1,4 +1,4 @@
-# Những tính cách khó khăn trong một dự án phần mềm, và làm sao để đối phó.
+# Sống sót trong một dự án phần mềm: Các sinh vật khó tính và cách tìm ra - đương đầu với chúng.
 
 **Content**
 
