@@ -1,6 +1,6 @@
 # Người bị chà đạp
-. 
-Một QA bị đánh bại bởi các dev tới mức mà họ hiếm khi dám báo cáo một lỗi, vì quá sợ sự bắt nạt của dev.
+
+>Một QA bị đánh bại bởi các dev tới mức mà họ hiếm khi dám báo cáo một lỗi, vì quá sợ sự bắt nạt của dev.
 
 * _Có thể biến đổi thành: Kẻ xấc xược_
 * _Nguy hiểm khi làm chung với: Các dev kiểu "Diva" hoặc "Kẻ bắt cóc"_
