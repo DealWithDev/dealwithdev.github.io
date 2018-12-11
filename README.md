@@ -3,6 +3,7 @@
 **Content**
 
 1. QA - Những người đảm bảo chất lượng:
+  * [Vòi nước cứu hỏa](/QA_voi_phun_nuoc)
   * [Kẻ đổ lỗi](/QA_ke_do_loi)
   * [Kẻ gieo sợ hãi](/QA_ke_gieo_so_hai)
   * [Nhà khoa học](/QA_nha_khoa_hoc)
