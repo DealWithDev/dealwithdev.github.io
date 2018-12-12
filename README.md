@@ -3,6 +3,7 @@
 **Content**
 
 1. DEV - Những nhà phát triển:
+  * [Người ham thích công nghệ](/DEV_nguoi_ham_thich_cong_nghe)
   * [Người bảo trì](/DEV_nguoi_bao_tri) 
 
 2. QA - Những người đảm bảo chất lượng:
