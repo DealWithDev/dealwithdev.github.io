@@ -1,8 +1,11 @@
-# Sống sót trong một dự án phần mềm: Các sinh vật khó tính và cách tìm ra - đương đầu với chúng.
+# Sống sót trong một dự án phần mềm: Các sinh vật huyền bí và cách tìm ra - đương đầu với chúng.
 
 **Content**
 
-1. QA - Những người đảm bảo chất lượng:
+1. DEV - Những nhà phát triển:
+  * [Người bảo trì](/DEV_nguoi_bao_tri) 
+
+2. QA - Những người đảm bảo chất lượng:
   * [Vòi nước cứu hỏa](/QA_voi_phun_nuoc)
   * [Kẻ đổ lỗi](/QA_ke_do_loi)
   * [Kẻ gieo sợ hãi](/QA_ke_gieo_so_hai)
