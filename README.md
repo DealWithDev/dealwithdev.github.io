@@ -3,6 +3,7 @@
 **Content**
 
 1. DEV - Những nhà phát triển:
+  * [Người Lính](/DEV_nguoi_linh)
   * [Người ham thích công nghệ](/DEV_nguoi_ham_thich_cong_nghe)
   * [Người bảo trì](/DEV_nguoi_bao_tri) 
 
