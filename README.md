@@ -3,6 +3,8 @@
 **Content**
 
 1. DEV - Những nhà phát triển:
+  * [Người lý tưởng hóa](/DEV_nguoi_ly_tuong_hoa)
+  * [Kẻ thiếu năng lực](/DEV_ke_thieu_nang_luc)
   * [Người Lính](/DEV_nguoi_linh)
   * [Người ham thích công nghệ](/DEV_nguoi_ham_thich_cong_nghe)
   * [Người bảo trì](/DEV_nguoi_bao_tri) 
