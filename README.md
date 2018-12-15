@@ -3,6 +3,7 @@
 **Content**
 
 1. DEV - Những nhà phát triển:
+  * [Kẻ bắt cóc](/DEV_ke_bat_coc)
   * [Người lý tưởng hóa](/DEV_nguoi_ly_tuong_hoa)
   * [Kẻ thiếu năng lực](/DEV_ke_thieu_nang_luc)
   * [Người Lính](/DEV_nguoi_linh)
