@@ -3,7 +3,7 @@
 **Content**
 
 1. DEV - Những nhà phát triển:
-  * [Kẻ dự đoán dưới mức](/DEV_ke_estimate_duoi_muc_cuc_doan)
+  * [Người ước lượng thấp](/DEV_nguoi_uoc_luong_thap_cuc_doan)
   * [Kẻ bắt cóc](/DEV_ke_bat_coc)
   * [Người lý tưởng hóa](/DEV_nguoi_ly_tuong_hoa)
   * [Kẻ thiếu năng lực](/DEV_ke_thieu_nang_luc)
