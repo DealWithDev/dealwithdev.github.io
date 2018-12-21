@@ -19,11 +19,11 @@ Bò đực sống trong một trạng thái stress thường xuyên, đè nặng
 
 Bởi vì họ không phải là vấn đề, vấn đề có thể được điều chỉnh bởi tổ chức bằng cách thực hiện các bước sau:
 
-* 1. Tạo ra một khoảng thời gian để lấy hơi trong dự án bằng cách cắt bớt scope hoặc đẩy deadline cao lên.
-* 2. Trong khoảng thời gian bình lặng mà ta tạo ra này, tổ chức một sự kiện "lesson learn" để "Bò đực" có thể có cơ hội nói lên những nỗi bất bình của mình.
-* 3. Phân tích nguyên nhân chính của các lỗi, và sửa chữa chúng. Đừng vội vàng, mà hãy đảm bảo là bạn định vị được hết các vấn đề trước khi xử lý.
-* 4. Cần nhận thấy các trường hợp bị vắt kiệt trong các dev và bắt buộc họ phải nghỉ ngơi với một quỹ thời gian không chính thức. Các tổ chức ít khi làm việc này, nhưng nó có kết quả rất tốt.
-* 5. Khi tái tập hợp team, đánh giá lại dự án một cách tổng thể để thiết lập scope mới cũng như các ngày bàn giao.
+ 1. Tạo ra một khoảng thời gian để lấy hơi trong dự án bằng cách cắt bớt scope hoặc đẩy deadline cao lên.
+ 2. Trong khoảng thời gian bình lặng mà ta tạo ra này, tổ chức một sự kiện "lesson learn" để "Bò đực" có thể có cơ hội nói lên những nỗi bất bình của mình.
+ 3. Phân tích nguyên nhân chính của các lỗi, và sửa chữa chúng. Đừng vội vàng, mà hãy đảm bảo là bạn định vị được hết các vấn đề trước khi xử lý.
+ 4. Cần nhận thấy các trường hợp bị vắt kiệt trong các dev và bắt buộc họ phải nghỉ ngơi với một quỹ thời gian không chính thức. Các tổ chức ít khi làm việc này, nhưng nó có kết quả rất tốt.
+ 5. Khi tái tập hợp team, đánh giá lại dự án một cách tổng thể để thiết lập scope mới cũng như các ngày bàn giao.
 
 Trong khi các bước này cho ta một hướng rõ ràng để sửa chữa vấn đề, bề ngoài, chúng lại tỏ ra không liên quan mấy tới việc: chính cách quản lý là nguồn gốc của mọi vấn đề đang diễn ra. Thay vì thế mọi người sẽ thấy rằng chính bộ phận quản lý đã giúp đỡ bằng cách đưa ra giải pháp. Thực tế là: nhờ việc bộ phận quản lý tự nhận ra được rằng: họ có trách nhiệm trong quá trình tạo ra các "Bò đực", trong vài tuần, với các giải pháp trên, các thiệt hại có thể được sửa chữa và dự án được trở lại lộ trình vốn có của nó.
 
