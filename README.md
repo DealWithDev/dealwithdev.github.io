@@ -3,6 +3,7 @@
 **Content**
 
 1. DEV - Những nhà phát triển:
+  * [Người mong được quản lý](/DEV_nguoi_mong_muon_quan_ly)
   * [Bò đực trong tiệm đồ sứ](/DEV_bo_duc_trong_tiem_do_su)
   * [Diva](/DEV_Diva)
   * [Người ước lượng dư thừa](/DEV_nguoi_uoc_luong_du_thua_cuc_doan)
