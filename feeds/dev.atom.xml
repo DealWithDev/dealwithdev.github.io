@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Manage IT - Dev</title><link href="https://manage-it.github.io/" rel="alternate"></link><link href="https://manage-it.github.io/feeds/dev.atom.xml" rel="self"></link><id>https://manage-it.github.io/</id><updated>2018-12-20T10:20:00+07:00</updated><entry><title>Bò đực trong tiệm đồ sứ</title><link href="https://manage-it.github.io/bo-duc-trong-tiem-do-su.html" rel="alternate"></link><published>2018-12-20T10:20:00+07:00</published><updated>2018-12-20T10:20:00+07:00</updated><author><name>TienTN-DinhNV</name></author><id>tag:manage-it.github.io,2018-12-20:/bo-duc-trong-tiem-do-su.html</id><summary type="html">&lt;h1&gt;Bò đực trong tiệm đồ sứ&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Viết tắt: "Bò đực"
+Một dev quá tập trung vào cho mục tiêu hoàn thành công việc mà hoàn toàn quên  đi các ý niệm về chất lượng.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Có thể biến đổi thành: Dev "Người Lính"&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Nguy hiểm khi làm việc với: PM "Bạo …&lt;/em&gt;&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">&lt;h1&gt;Bò đực trong tiệm đồ sứ&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Viết tắt: "Bò đực"
+Một dev quá tập trung vào cho mục tiêu hoàn thành công việc mà hoàn toàn quên  đi các ý niệm về chất lượng.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Có thể biến đổi thành: Dev "Người Lính"&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Nguy hiểm khi làm việc với: PM "Bạo chúa" hoặc QA dạng "Vòi nước cứu hỏa"&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Khả năng sửa chữa: &lt;strong&gt;Cao&lt;/strong&gt;&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Nguy cơ với dự án: &lt;strong&gt;Trung bình&lt;/strong&gt;&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Vấn đề:&lt;/h2&gt;
+&lt;p&gt;Áp lực trên các nhà phát triển phần mềm là khổng lồ. &lt;em&gt;"Internet không bao giờ ngủ"&lt;/em&gt; cũng có nghĩa là các dev không bao giờ ngủ. Nhằm cố gắng thay đổi và tái cân bằng giữa cuộc sống - công việc, Bò đực trong tiệm đồ sứ chỉ muốn hoàn thành danh sách các công việc được giao càng sớm càng tốt, để trở về nhà với gia đình.&lt;/p&gt;
+&lt;p&gt;Bò đực được tạo ra bởi các áp lực dự án. Dù cho dev có khá đến mấy, nếu áp lực dự án đủ cao, họ chắc chắn sẽ ngừng test các kết quả công việc của mình, và thay vì thế dựa vào QA (xem QA "Kẻ đổ lỗi") như một phương tiện chủ yếu cho việc tìm lỗi. Thêm nữa, lấy thực dụng làm cái cớ, họ sẽ quên đi các biện pháp cần thiết như review code chéo, test tự động, tái cấu trúc ... để mã nguồn trong một trạng thái hư nát. Phần mềm thiết kế kém cỏi này sẽ tạo ra các lỗi mới, và bộ mã nền tảng sẽ nhanh chóng bị thoái hóa thành một mạch nước phun ra toàn lỗi, mà không thể nào bịt lại nổi.&lt;/p&gt;
+&lt;p&gt;Bò đực sống trong một trạng thái stress thường xuyên, đè nặng lên họ bời những người có trách nhiệm (điều hành) dự án. Họ là nạn nhân của một dự án được lên kế hoạch và vận hành kém cỏi, nhưng lại bị coi lại vấn đề. Câu nói "Vắt chanh bỏ vỏ" được dùng để đề cập tới "Bò đực", bởi vì stress thường xuyên rồi sẽ phá hủy họ, và họ sẽ ra đi hoặc bị đuổi việc vì sự kém cỏi quá rõ ràng này.&lt;/p&gt;
+&lt;h2&gt;Giải pháp:&lt;/h2&gt;
+&lt;p&gt;Bởi vì họ không phải là vấn đề, vấn đề có thể được điều chỉnh bởi tổ chức bằng cách thực hiện các bước sau:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Tạo ra một khoảng thời gian để lấy hơi trong dự án bằng cách cắt bớt scope hoặc đẩy deadline cao lên.&lt;/li&gt;
+&lt;li&gt;Trong khoảng thời gian bình lặng mà ta tạo ra này, tổ chức một sự kiện "lesson learn" để "Bò đực" có thể có cơ hội nói lên những nỗi bất bình của mình.&lt;/li&gt;
+&lt;li&gt;Phân tích nguyên nhân chính của các lỗi, và sửa chữa chúng. Đừng vội vàng, mà hãy đảm bảo là bạn định vị được hết các vấn đề trước khi xử lý.&lt;/li&gt;
+&lt;li&gt;Cần nhận thấy các trường hợp bị vắt kiệt trong các dev và bắt buộc họ phải nghỉ ngơi với một quỹ thời gian không chính thức. Các tổ chức ít khi làm việc này, nhưng nó có kết quả rất tốt.&lt;/li&gt;
+&lt;li&gt;Khi tái tập hợp team, đánh giá lại dự án một cách tổng thể để thiết lập scope mới cũng như các ngày bàn giao.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Trong khi các bước này cho ta một hướng rõ ràng để sửa chữa vấn đề, bề ngoài, chúng lại tỏ ra không liên quan mấy tới việc: chính cách quản lý là nguồn gốc của mọi vấn đề đang diễn ra. Thay vì thế mọi người sẽ thấy rằng chính bộ phận quản lý đã giúp đỡ bằng cách đưa ra giải pháp. Thực tế là: nhờ việc bộ phận quản lý tự nhận ra được rằng: họ có trách nhiệm trong quá trình tạo ra các "Bò đực", trong vài tuần, với các giải pháp trên, các thiệt hại có thể được sửa chữa và dự án được trở lại lộ trình vốn có của nó.&lt;/p&gt;
+&lt;p&gt;TienTN dịch 20181220&lt;/p&gt;</content></entry></feed>
